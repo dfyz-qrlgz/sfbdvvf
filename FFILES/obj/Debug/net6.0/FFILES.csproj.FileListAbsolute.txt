@@ -1,0 +1,15 @@
+C:\Users\ivan6\source\repos\FFILES\FFILES\obj\Debug\net6.0\FFILES.csproj.AssemblyReference.cache
+C:\Users\ivan6\source\repos\FFILES\FFILES\obj\Debug\net6.0\FFILES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivan6\source\repos\FFILES\FFILES\obj\Debug\net6.0\FFILES.AssemblyInfoInputs.cache
+C:\Users\ivan6\source\repos\FFILES\FFILES\obj\Debug\net6.0\FFILES.AssemblyInfo.cs
+C:\Users\ivan6\source\repos\FFILES\FFILES\obj\Debug\net6.0\FFILES.csproj.CoreCompileInputs.cache
+C:\Users\ivan6\source\repos\FFILES\FFILES\bin\Debug\net6.0\FFILES.exe
+C:\Users\ivan6\source\repos\FFILES\FFILES\bin\Debug\net6.0\FFILES.deps.json
+C:\Users\ivan6\source\repos\FFILES\FFILES\bin\Debug\net6.0\FFILES.runtimeconfig.json
+C:\Users\ivan6\source\repos\FFILES\FFILES\bin\Debug\net6.0\FFILES.dll
+C:\Users\ivan6\source\repos\FFILES\FFILES\bin\Debug\net6.0\FFILES.pdb
+C:\Users\ivan6\source\repos\FFILES\FFILES\obj\Debug\net6.0\FFILES.dll
+C:\Users\ivan6\source\repos\FFILES\FFILES\obj\Debug\net6.0\refint\FFILES.dll
+C:\Users\ivan6\source\repos\FFILES\FFILES\obj\Debug\net6.0\FFILES.pdb
+C:\Users\ivan6\source\repos\FFILES\FFILES\obj\Debug\net6.0\FFILES.genruntimeconfig.cache
+C:\Users\ivan6\source\repos\FFILES\FFILES\obj\Debug\net6.0\ref\FFILES.dll
